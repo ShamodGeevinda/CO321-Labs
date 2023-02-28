@@ -10,7 +10,7 @@ int main (void){
     DDRB = 0x0F; /* configure pin 0,1,2,3 of PORTB for output*/
     while(1){
 
-        unsigned char z;
+       
 
         // A B C D loop
         // 1 0 0 0 --->  1<0
